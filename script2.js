@@ -81,6 +81,16 @@ function enableInput() {
     document.getElementById('letter').disabled = false;
     document.querySelector('button[onclick="guessLetter()"]').disabled = false;
 }
+#Languages{
+    background-color: #13c77cc4;
+    text-align: right;
+    height: 35px;
+    width: 100px;
+    border: #0056b3;
+    border-radius: 7px;
+    padding-left: 25px;
+    padding-right: 25px;
+}
 
 
 
